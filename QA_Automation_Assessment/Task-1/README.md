@@ -67,9 +67,6 @@ The selected issue was:
 
 **No Rate Limiting on Login Page**
 
-The application allows unlimited failed login attempts without account lockout, CAPTCHA, or request throttling. This increases the risk of brute-force attacks and account compromise. Implementing rate limiting and stronger password policies would significantly improve security. :contentReference[oaicite:0]{index=0}
+The application allows unlimited failed login attempts without account lockout, CAPTCHA, or request throttling. This increases the risk of brute-force attacks and account compromise. Implementing rate limiting and stronger password policies would significantly improve security.
 
 ---
-
-- GitHub
-- Chrome DevTools
