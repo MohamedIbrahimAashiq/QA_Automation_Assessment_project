@@ -74,4 +74,3 @@ The workflow successfully:
 * Uses conditional logic to determine the notification path.
 * Sends automated notifications to Discord.
 
-The workflow meets all assignment requirements, including scheduling, API integration, data transformation, conditional branching, notification delivery, and error handling.
