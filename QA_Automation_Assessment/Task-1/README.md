@@ -38,7 +38,6 @@ The application allowed access to the home dashboard using a very weak password,
 
 The application allows users to create an account and immediately access the platform without verifying ownership of the registered email address.
 
-![No Email Verification](images/no-email-verification.png)
 
 **Impact:**
 - Attackers can register accounts using fake or invalid email addresses
